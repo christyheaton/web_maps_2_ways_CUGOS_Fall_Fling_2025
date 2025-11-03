@@ -1,12 +1,12 @@
 # web_maps_2_ways_pycascades_2025
 
-This is the content for the talk "Web Maps 2 Ways with Streamlit and PyScript" presented on February 8, 2025 at [PyCascades 2025](https://2025.pycascades.com/).
+This is the content for the talk "Web Maps 2 Ways with Streamlit and PyScript" presented on November 14, 2025 at the [CUGOS Fall Fling 2025](https://cugos.org/2025-fall-fling/).
 
-Find the slides [here](https://docs.google.com/presentation/d/10L9KH3kkFY93qF7rVmwh4_o3WZ1W62D8TGyViBSVL5w/edit?usp=sharing).
+Find the slides [here](https://docs.google.com/presentation/d/1XSbWV1o5_24DmmvU1bxGDhbsMI4A3GADiUQ2ZwhggtE/edit?usp=sharing).
 
 *Deployed maps:*
 - [Streamlit app](https://christyheaton-web-maps-2-ways-p-streamlitstreamlit-hikes-h7ws2x.streamlit.app/)
-- [PyScript app](https://cheaton.pyscriptapps.com/pycascades-2025/latest/)
+- [PyScript app](https://cheaton.pyscriptapps.com/cugos-fall-fling-2025/latest/)
 
 
 ### About me:
